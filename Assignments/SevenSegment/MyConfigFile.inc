@@ -56,5 +56,3 @@
 
 
 ; config statements should precede project file includes.
-
-
