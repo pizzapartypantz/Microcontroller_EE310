@@ -1,5 +1,5 @@
 //---------------------------------
-// Title: Interfacing with Sensors
+// Title: ADC-LCD-Analog Testing w/ Microphone
 //---------------------------------
 // Author: Jason Downing
 // Date: May 2nd, 2026
